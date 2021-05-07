@@ -1,15 +1,13 @@
-/* *{
+*{
     margin: 0;
     padding: 0;
-} */
+    
+}
 
-html, body{
-    
-    height: 100%;
-    background-repeat: no-repeat;
-     /* fallback for old browsers */
-    
-    background-image: linear-gradient(to bottom, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ body{
+
+    min-height: 100vh;
+    background-image: linear-gradient(to top, #929292, #01250c);
     background-size: cover;
 }
 
